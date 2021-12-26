@@ -1,0 +1,31 @@
+.radio{
+text-align: center;
+}
+.wid{
+    width: 200px;
+    justify-content:left;
+    
+}
+.star{
+    font-size: 24px;
+}
+.star:hover{
+    color: red;
+}
+.container{
+    
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+textarea{
+    width: 100%;
+}
+
+@media screen and (max-width: 400px){  
+    
+.container{
+        margin:0;
+        border-style: none;
+    }
+}
+
